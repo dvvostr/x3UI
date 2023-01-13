@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/output/Debug-iphoneos/x3UI.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/build/x3UI.build/Debug-iphoneos/x3UI.build/unextended-module.modulemap",
+    }]
+  }]
+}

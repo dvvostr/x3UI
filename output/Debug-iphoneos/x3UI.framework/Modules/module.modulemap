@@ -1,0 +1,11 @@
+framework module x3UI {
+  umbrella header "x3UI.h"
+
+  export *
+  module * { export * }
+}
+
+module x3UI.Swift {
+    header "x3UI-Swift.h"
+    requires objc
+}

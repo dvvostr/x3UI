@@ -1,0 +1,54 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "6e31d0bcd4fa0d6f4dc88f03b355fbaf64f668f6354dbf0a697ea3820a8ccd32"
+build_start_time: [1647609344, 242168903]
+build_end_time: [1647609346, 757817029]
+inputs:
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/CGPoint.swift": !private [1645102010, 769451379]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/CGRect.swift": !private [1645101994, 555404663]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/NSLayoutAnchor.swift": !private [1644994115, 43009757]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/NSLayoutConstraint.swift": !private [1644994115, 80658197]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/String.swift": !private [1647270737, 262006282]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIApplication.swift": !private [1644225897, 105372428]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIBarButtonItem.swift": !private [1647502740, 463880777]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIBarItem.swift": !private [1645102042, 877721786]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIButton.swift": !private [1643875978, 760542869]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIColor.swift": !private [1646901285, 695428609]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIDevice.swift": !private [1644224818, 376966476]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIImage.swift": !private [1643876560, 688629150]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UILabel.swift": !private [1643518514, 913140296]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UISegmentedControl.swift": !private [1643568730, 767337799]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIStackView.swift": !private [1647246156, 995376110]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UITableView.swift": !private [1643533608, 31739711]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UITableViewCell.swift": !private [1643530760, 941785812]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIView.swift": !private [1647272145, 277502536]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Extension/UIViewController.swift": !private [1643519152, 137489795]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UIX3CaptionTextField.swift"
+  : !private [1646302634, 310194492]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UIX3CaptionView.swift"
+  : !private [1646294769, 440865755]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UIX3MultilineTextField.swift"
+  : !private [1645533584, 493350982]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UIX3TextView.swift"
+  : !private [1646145570, 506691455]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UX3TextControlCommon.swift"
+  : !private [1645609500, 58217763]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/TextControl/UX3TextField.swift"
+  : !private [1646302549, 113111495]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UIX3CustomViewController.swift"
+  : !private [1645353562, 473723888]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UIX3SegmentControl.swift": !private [1643725462, 776049137]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UIX3Toast/UIX3Toast.swift"
+  : !private [1645120845, 262235164]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UX3CustomButton.swift": !private [1647502684, 457726955]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UX3RoundedButton.swift": !private [1644849660, 799520492]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/UX3SliderIndicator.swift": !private [1643904631, 720630168]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/View/UIX3CustomView.swift"
+  : !private [1646037727, 917470932]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Controls/ViewController/UIX3AlertViewController.swift"
+  : !private [1647530595, 297051429]
+  ? "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Delegate/ControlEventDelegate.swift"
+  : !private [1643818764, 45932292]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/Delegate/UIX3CustomControl.swift": !private [1645354375, 973797798]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/View/UIX3CustomBorderView.swift": !private [1643785512, 47288894]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/View/UIX3ToolTip.swift": !private [1645102726, 583772659]
+  "/Users/dv_vostr/Library/Mobile Documents/com~apple~CloudDocs/Projects/x3.Frameworks/x3UI/Model/View/UIX3XibView.swift": !private [1644837323, 480588674]

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UIX3CustomSegmentControl" customModule="x3UI" customModuleProvider="target">
+            <connections>
+                <outlet property="constraintBottomOffset" destination="uig-a9-isc" id="b4t-iq-LTu"/>
+                <outlet property="constraintLeftOffset" destination="eBt-9A-ZGp" id="YEW-pO-YFK"/>
+                <outlet property="constraintRightOffset" destination="Wg5-xU-LvW" id="BUl-D2-UXk"/>
+                <outlet property="constraintTopOffset" destination="a0R-SG-Whd" id="OTv-dJ-66Y"/>
+                <outlet property="segmentedControl" destination="r7n-b9-Oi7" id="eCo-K0-0oK"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="456" height="193"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="r7n-b9-Oi7" customClass="UIX3SegmentControl" customModule="x3UI" customModuleProvider="target">
+                    <rect key="frame" x="4" y="4" width="448" height="186"/>
+                    <segments>
+                        <segment title="First"/>
+                        <segment title="Second"/>
+                    </segments>
+                </segmentedControl>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="r7n-b9-Oi7" secondAttribute="trailing" constant="4" id="Wg5-xU-LvW"/>
+                <constraint firstItem="r7n-b9-Oi7" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="4" id="a0R-SG-Whd"/>
+                <constraint firstItem="r7n-b9-Oi7" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="4" id="eBt-9A-ZGp"/>
+                <constraint firstAttribute="bottom" secondItem="r7n-b9-Oi7" secondAttribute="bottom" constant="4" id="uig-a9-isc"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="87.022900763358777" y="-244.71830985915494"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
